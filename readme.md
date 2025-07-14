@@ -82,7 +82,7 @@ PORTAL_ENVIRONMENT_ID="ENV_ID_PORTAL"
 ## 📁 Folder Structure
 
 ```
-📦 netmonk-api-windows/
+📦 netmonk-api-batch/
 ├── 🟦 netmonk_api.bat         # script utama (Windows version)
 ├── 🟡 config.env              # file environment config (jangan di-commit!)
 ├── 📄 README.md               # dokumentasi kece ini
@@ -100,7 +100,7 @@ PORTAL_ENVIRONMENT_ID="ENV_ID_PORTAL"
 ### 1. Buka Command Prompt / Git Bash
 
 ```bash
-cd C:\Users\%USERNAME%\Documents\netmonk-api-windows
+cd C:\Users\%USERNAME%\Documents\netmonk-api-batch
 ```
 
 ### 2. Jalankan script
