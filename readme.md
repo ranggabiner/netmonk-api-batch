@@ -90,8 +90,8 @@ PORTAL_ENVIRONMENT_ID="ENV_ID_PORTAL"
 
 📝 **Note:**
 
-- `config.env` harus valid (tanpa spasi aneh, tanpa kutip miring/kacau)
-- File ini _jangan di-push ke GitHub_, karena berisi data sensitif 🛡️
+- `config.env` harus disunting via code editor (kayak VS Code) supaya gak typo
+- `config.env` berisi data sensitif → pastikan udah masuk di `.gitignore`
 
 ---
 
