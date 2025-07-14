@@ -100,7 +100,7 @@ PORTAL_ENVIRONMENT_ID="ENV_ID_PORTAL"
 ### 1. Buka Command Prompt / Git Bash
 
 ```bash
-cd C:\Users\%USERNAME%\Documents\netmonk-api-batch
+cd /path/tempat/lo/naruh/netmonk-api-batch
 ```
 
 ### 2. Jalankan script
