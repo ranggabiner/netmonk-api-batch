@@ -86,6 +86,7 @@ PORTAL_ENVIRONMENT_ID="ENV_ID_PORTAL"
 ├── 🟦 netmonk_api.bat         # script utama (Windows version)
 ├── 🟡 config.env              # file environment config (jangan di-commit!)
 ├── 📄 README.md               # dokumentasi kece ini
+├── 🔒 .gitignore              # file yang ngejaga config.env biar gak ikut ke-push
 ```
 
 📝 **Note:**
